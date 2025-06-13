@@ -1,2 +1,12 @@
 # Quantum-and-Classic-Realities-And-Monetary-Values
-This is merely a though just Came into my head when I just watched a Movie and back home. That was interesting so I prefer to write those down
+This is merely a though just Came into my head when I just watched a Movie and back home. That was interesting so I prefer to write those down.
+And this is also a naive review for a well known speech by Dr.Penrose: 
+https://www.bilibili.com/video/BV1VuMwzeEXs/?spm_id_from=333.337.search-card.all.click&vd_source=86ac50adfb97fa81fefdc85ec3eee777
+## Motivations
+I shall introduce two fairly sounding Economic concepts before everything else starts, cost and sunk cost. A cost/ or an opportunity cost of doing a thing is defined as the maximum value you so something else instead, ie the maximal value you gave up. And the sunk costs, in most of cases,  = the monetary investments ( that you pay for a good or servise) - the value that those goods or services.
+So if you paid for a movie ticket and you went to the cinema and the movie is just a garbage, your high school economic teacher will told you just leave, because "Sunk Cost is not a actual cost". And clarifying the those concepts is always a great and wise guide to follow. when you know that movie worth 0, and your time worth any positive value, then you should just leave. But the question is: what defines the value? or in other words, which sort of realities makes you leave the cinema or not.
+
+## Quantum facts or Classic facts and implicit procedures
+The result is only between leave or not leave (at any instance when you are watching that movie), seem to be a Quantum fact. So if someone else far away from this cinema room, the only information is just the movie contents before those instance or some other information like your jobs, daily consumptions (and those information maybe not complete), so asking them if you left at any instance is almost like asking if a cat in a "magic box" would die at any instance, the only physics answer should be like a porbably tuple like (0.25, 0.75) or the unnormalised ones like (221,776), (12+75i, 28i) or ect... so according to speech from Dr.Penrose, all procedure that induced from informations to that tuple is actually based on classic system or everything or every mapping in between is based on somehow a classic fact. and if that annoying guy phoned you, and ask "have you just leaved that god-damned cinema" he asked for a quantum fact and if you say yes(or maybe no) with 100% honesty, he will get a quantum fact. So making that decision is somehow a quantum procedure! 
+
+(continue...)
